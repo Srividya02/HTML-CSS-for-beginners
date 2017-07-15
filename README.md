@@ -1,8 +1,8 @@
 # HTML-CSS-for-beginners
-Learn and practice 3 tiny project to learn basic knowledge of HTML and CSS.
+Learn and practice 3 tiny projects to learn basic knowledge of HTML and CSS.
 
 # Getting started
-Coding tool: Brackets
+Setup by creating index.html and style.css files
 
 # First Project: My Recipe
 
@@ -24,3 +24,6 @@ Basic CSS
 Set color, font, margin, width, padding, text-align, float, display
 Use border to style lists
 Learn the concept of z-index
+
+# Second Project: My College
+Setup responsive website
