@@ -1,7 +1,7 @@
-# HTML-CSS-for-beginners
+# HTML-CSS-for-Beginners
 Learn and practice 3 tiny projects to learn basic knowledge of HTML and CSS.
 
-# Getting started
+# Getting Started
 Setup by creating index.html and style.css files
 
 # First Project: My Recipe
